@@ -52,7 +52,7 @@ Proposed themes:
 
 * **Linux motherfuckers** - Linux sucks? Ok, challenge to all mac lovers and creatives to build something that makes it more usable by humans.
 
- ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/tight-ass.gif "Torvalds is the one true God.")
+ ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/linus-jobs.png "Torvalds is the one true God.")
 
 * **freestyle** - just do whatever the fuck you want.
 
