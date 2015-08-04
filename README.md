@@ -34,7 +34,11 @@ We aim to allow 2.5 minutes per pitch.
 
 ### Location
 
-The Negev 6th street first floor and basement. We estimated the seated capacity of this space at roughly 50 poeple.
+The Negev 6th street first floor and basement. We estimated the seated capacity of this space at roughly 50 people.
+
+### Invites
+
+We intend to open the hackathon to Negev 6th people and friends of Negev. (same rules that apply to Negev 6th party invites). We will cap the number of participants at 50 and give spots on a first-come first-served basis.
 
 ### Theme
 
