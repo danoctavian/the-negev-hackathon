@@ -40,7 +40,7 @@ Proposed themes:
 
 *  **\#quadlife** - build something that improves life in Negev-scale communities
 
- ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/russian-dormitory.jpg =250x "the great bear watches over you. always.")
+ ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/russian-dormitory.jpg "the great bear watches over you. always.")
 
 * **I want to know what love is** - build something that helps a bunch of guys and gals get more action
 
@@ -52,7 +52,7 @@ Proposed themes:
 
 * **Linux motherfuckers** - Linux sucks? Ok, challenge to all mac lovers and creatives to build something that makes it more usable by humans.
 
- ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/linus-jobs.png "Torvalds is the one true God.")
+ ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/tight-ass.gif "Torvalds is the one true God.")
 
 * **freestyle** - just do whatever the fuck you want.
 
