@@ -50,7 +50,7 @@ I am putting out there some seed themes to start with:
 
  ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/russian-dormitory.jpg "the great bear watches over you. always.")
 
-* **I want to know what love is** - build something that helps a bunch of guys and gals get more action
+* **I want to know what love is** - build something that helps a bunch of guys and gals find true love.
 
  ![alt text](https://github.com/danoctavian/the-negev-hackathon/blob/master/pics/watch-out-for-buttsex.jpg "...")
 
