@@ -18,15 +18,15 @@ The spec is under work and any suggestions of how to make it better are very wel
 
 ### Schedule 
 
-6:00 PM 14 aug 2015 - 7:00 PM 15 aug 2015
+6:00 PM 21 aug 2015 - 7:00 PM 22 aug 2015
 
- 14 august 2015
+ 21 august 2015
 
   * 6:00 PM - 7:00 PM  pre-hackathon social
 
   * 7:00 PM - 7:20 PM  start talk
 
- 15 august 2015
+ 22 august 2015
 
   * 6:00 PM - 7:00 PM pitches
 
@@ -44,7 +44,7 @@ We intend to open the hackathon to Negev 6th people and friends of Negev. (same 
 
 This is very much up for debate. Please come with creative suggestions!
 
-Proposed themes:
+I am putting out there some seed themes to start with:
 
 *  **\#quadlife** - build something that improves life in Negev-scale communities
 
