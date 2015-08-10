@@ -12,7 +12,7 @@
 
 no one wanted to believe... believe it even existed. And when the truth finally dawned, it dawned in CODE.
 
-## SPEC
+## RFC 
 
 The spec is under work and any suggestions of how to make it better are very welcome and appreciated.
 
